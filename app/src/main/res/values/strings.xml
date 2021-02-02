@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="title_activity_open_channel_list">OpenChannelListActivity</string>
+    <string name="title_activity_group_channel_list">GroupChannelListActivity</string>
+    <string name="title_activity_channel_list">ChannelListActivity</string>
+    <string name="add_name">Name</string>
+    <string name="add_save">Save</string>
+    <string name="add_hard_mode">Hard Mode</string>
+    <string name="add_normal_mode">Normal Mode</string>
+    <string name="add_invalid_name_error">Invalid Name. Min. 3 characters</string>
+    <string name="participant_added_message">Added participant %1$s</string>
+    <string name="add_encr_mode">Encrypted</string>
+    <string name="add_normal">Normal</string>
+    <string name="add_regCode">Registration Code</string>
+    <string name="add_date">Registration Date</string>
+    <string name="add_invalid_regCode">Invalid reg code</string>
+    <string name="add_invalid_regDate">Invalid RegDate</string>
+    <string name="hint_msg">Write a message</string>
+    <string name="sendbtn">sendBtn</string>
+    <string name="ph_their_msg">The other message</string>
+    <string name="ph_my_msg">My message</string>
+    <string name="their_text_header_msg">The Other Participant</string>
+    <string name="their_msg_body">This is a message.</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="todo">TODO</string>
+    <string name="join_channel">Join Channel</string>
+    <string name="user_id">user id</string>
+    <string name="user_nickname"> user nickname </string>
+    <string name="user_err">WRONG USER ID GIVEN!</string>
+    <string name="log_in">Log in</string>
+    <string name="string_user_id"> User ID </string>
+    <string name="RegForm">\"Registration Form\"</string>
+    <string name="addParticipant">Add me</string>
+    <string name="tvHello">Data curs:</string>
+    <string name="tvEUR">EUR:</string>
+    <string name="tvUSD">USD:</string>
+    <string name="tvGBP">GBP:</string>
+    <string name="tvXAU">XAU:</string>
+    <string name="btnAfisare">Afisare curs valutar</string>
+    <string name="btnSalvare">Salvare curs valutar</string>
+    <string name="toast1">S-a preluat cursul valutar!</string>
+    <string name="toast2">S-a salvat!</string>
+    <string name="optiunea_1">BNR Activity</string>
+    <string name="optiunea_2">Login Activity</string>
+    <string name="optiunea_3">Preluare JSON</string>
+    <string name="salvare_date">Salvare date</string>
+    <string name="optiune1">BNR Activity</string>
+    <string name="optiune2">Login Activity</string>
+    <string name="optiune3">Preluare JSON</string>
+    <string name="introduceti_titlul">Introduceti titlul</string>
+    <string name="introduceti_data_aparitie">Introduceti data aparitie</string>
+    <string name="introduceti_suma_incasari">Introduceti suma incasari</string>
+    <string name="genul_muzicii">Genul Muzicii:</string>
+    <string name="YT">Youtube</string>
+    <string name="deezer">DEEZER</string>
+    <string name="introduceti_nume_autor">Introduceti nume autor</string>
+    <string name="duration">Duration:</string>
+    <string name="loan">loan activity</string>
+    <string name="fabLoan">Loan</string>
+    <string name="fab">Fab</string>
+    <string name="loan_activity">Loan</string>
+    <string name="imageViewGBP">GPB</string>
+    <string name="lv_user_row_amount">Amount</string>
+    <string name="lv_user_row_default_value">-</string>
+
+        <string name="insert_failed_message">Insert failed</string>
+        <string name="profile_name">Name</string>
+        <string name="profile_gender">Gender</string>
+        <string name="profile_male">Male</string>
+        <string name="profile_female">Female</string>
+        <string name="profile_save">Save</string>
+
+        <string name="display_param_message">Salut %1$s!</string>
+        <string name="main_my_title">Titlul meu</string>
+        <string name="profile_select_category">Select a category</string>
+        <string name="profile_error_message_selection">No expenses selected</string>
+        <string name="profile_alert_title">Get Expenses by category</string>
+    <string name="add_user_save">userDescription</string>
+    <string name="add_user_category">userCateg</string>
+    <string name="add_user_date">UserDate</string>
+    <string name="add_user_time">userTime</string>
+    <string name="add_user_description">DescriptionUser</string>
+    <string name="add_user_row_logo">logoUser</string>
+    <string name="lv_user_row_date">UserDate</string>
+    <string name="lv_user_row_category">UserCateg</string>
+    <string name="lv_user_row_time">userDescription</string>
+    <string name="add_user_date_error_message">Invalid DATE!</string>
+    <string name="add_user_time_error_message">Invalid Time</string>
+    <string name="lv_user_row_amount_value">%1$s lei</string>
+
+
+    <string-array name="add_expense_category_values">
+            <item>Normal User</item>
+            <item>Power User</item>
+            <item>VIPm</item>
+            <item>Admin</item>
+
+        </string-array>
+
+    <string-array name="add_team">
+        <item>C9</item>
+        <item>Spirit Heroes</item>
+        <item>CleverMinds</item>
+    </string-array>
+    <string-array name="add_movie_genre">
+        <item>ROMANCE</item>
+        <item>HORROR</item>
+        <item>SF</item>
+        <item>ACT</item>
+        <item>DRAMA</item>
+    </string-array>
+    <string-array name="add_book_genre">
+        <item>Fictiune</item>
+        <item>Non_Fictiune</item>
+        <item>Alt_gen</item>
+    </string-array>
+
+</resources>

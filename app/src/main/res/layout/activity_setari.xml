@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SetariActivity">
+
+    <PreferenceCategory
+        android:title="Setari aplicatie">
+        <EditTextPreference
+            android:name="Nume movie"
+            android:summary="Numele cititorului"
+            android:defaultValue="Gigel"
+            android:title="Nume movie"
+            android:key="etCititor" />
+
+        <CheckBoxPreference
+            android:key="cbSex"
+            android:summary="Sexul cititorului"
+            android:title="Feminin" />
+
+        <EditTextPreference
+            android:name="Username"
+            android:summary="Nume utilizator"
+            android:defaultValue="gMaxim"
+            android:title="Nume utilizator"
+            android:key="usernameCititor" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

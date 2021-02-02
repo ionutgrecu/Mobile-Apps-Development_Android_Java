@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsActivity">
+
+    <PreferenceCategory
+        android:title="Setari aplicatie">
+        <EditTextPreference
+            android:name="Denumire cinema"
+            android:summary="Denumire cineva"
+            android:defaultValue="Cinema"
+            android:title="Denumire cinema"
+            android:key="etCinema" />
+
+        <CheckBoxPreference
+            android:key="cbAer"
+            android:summary="Aer conditionat"
+            android:title="Are aer" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
